@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heilowoap.team8fitness.com/sitemap.xml
